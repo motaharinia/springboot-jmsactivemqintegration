@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="springboot-jmsactivemqintegration" target="13" />
+      <module name="springboot-jmsactivemqintegration" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
